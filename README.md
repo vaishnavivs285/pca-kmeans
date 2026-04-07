@@ -81,5 +81,3 @@ This project performs customer segmentation using unsupervised learning techniqu
 
 ---
 
-## 👨‍💻 Author
-Praveen Kumar
